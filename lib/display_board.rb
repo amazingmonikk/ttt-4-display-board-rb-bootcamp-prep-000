@@ -14,8 +14,7 @@ def display_board(board)
  
 end
 display_board(board)
-board = [" "," "," "," ","X"," "," "," "," "]
-display_board(board)
+
 
  
  
